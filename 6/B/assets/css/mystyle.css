@@ -1,0 +1,15 @@
+.img-brand{
+    height: 60px;
+}
+
+.color-pink{
+    color: #ff8fb2;
+}
+
+.btn-add{
+    background-color: #ff8fb2;
+    color: white;
+}
+.shaddow{
+    box-shadow: -1px 3px 5px -2px rgba(145,145,145,1);
+}
