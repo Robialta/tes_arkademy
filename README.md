@@ -2,6 +2,6 @@
 
 untuk jawaban nomor 1 harus di jalankan di lokal server karna menggunakan php
 
-![alt text](https://github.com/Robialta/tes-dumbways/blob/master/7/assets/img/Capture.PNG)
+![alt text](https://github.com/Robialta/tes_arkademy/blob/master/6/B/assets/img/sad.PNG)
 
 Note: Terlalu sedikit waktu
